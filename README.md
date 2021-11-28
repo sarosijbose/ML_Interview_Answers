@@ -41,6 +41,12 @@ https://towardsdatascience.com/covariance-and-correlation-321fdacab168
 
 5. Differences between 'distances' and norms?
 
+6. PCA
+
+https://www.linkedin.com/feed/update/urn:li:activity:6862677707273199616?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6862677707273199616%29
+
+7. SVD
+
 ### Accuracy Metrics
 
 1. What is Precision?
