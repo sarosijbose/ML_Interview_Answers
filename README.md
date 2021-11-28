@@ -35,6 +35,10 @@ This repository contains the implementations and answers to popular Computer Vis
 
 3. Explain the differences betn 1 and 2.
 
+4. What do norms refer to?
+
+5. Differences between 'distances' and norms?
+
 ### Accuracy Metrics
 
 1. What is Precision?
@@ -64,6 +68,18 @@ Ans: Precision is
 2. What is Batch Normalization?
 
 2. What is Instance Normalization?
+
+### Activations and Losses
+
+1. List down all standard losses and activations.
+
+* Sigmoid
+* ReLU
+* Leaky ReLU
+* Tanh
+* Cross Entropy 
+* Binary Cross Entropy
+* Triplet 
 
 ### Model Compression
 
