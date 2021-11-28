@@ -31,6 +31,8 @@ This repository contains the implementations and answers to popular Computer Vis
 
 1. What is covariance?
 
+https://towardsdatascience.com/covariance-and-correlation-321fdacab168
+
 2. What is correlation?
 
 3. Explain the differences betn 1 and 2.
