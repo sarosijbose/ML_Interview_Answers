@@ -47,7 +47,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6862677707273199616?updateE
 
 7. SVD
 
-### Accuracy Metrics
+### Training and Accuracy Metrics
 
 1. What is Precision?
 
@@ -63,11 +63,13 @@ Ans: Precision is
 
 6. How does model performace vary with bias and variance?
 
+7. What does the ROC curve represent?
 
+8. How does the bias and variance vary with precision and recall?
 
-5. What does the ROC curve represent?
+9. What is the difference between test and validation sets?
 
-6. How does the bias and variance vary with precision and recall?
+10. Are validation sets always needed?
 
 ### Layer Functions
 
@@ -85,9 +87,11 @@ Ans: Precision is
 * ReLU
 * Leaky ReLU
 * Tanh
+* Hard Tanh
 * Cross Entropy 
 * Binary Cross Entropy
-* Triplet 
+* Triplet  - Bring centroid closer to mean (anchor)
+* Hard Triplet Mining - Bring extreme points closer to mean (point)
 
 ### Model Compression
 
@@ -125,5 +129,4 @@ Ans: Precision is
 
 4. Derive the factor of improvement of depthwise separable conv over normal convolution.
 
-4. 
-
+https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568
