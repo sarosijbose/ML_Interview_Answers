@@ -119,6 +119,8 @@ Ans: Precision is
 
 5. MobileNet
 
+https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69
+
 ### Convolution
 
 1. What is convolution?
