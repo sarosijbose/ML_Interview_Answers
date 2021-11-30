@@ -93,6 +93,9 @@ Ans: Precision is
 * Triplet  - Bring centroid closer to mean (anchor)
 * Hard Triplet Mining - Bring extreme points closer to mean (point)
 
+![image](https://user-images.githubusercontent.com/55347156/143975872-0bcf2f0e-3f94-44ba-9a83-0490a9022fa9.png)
+
+
 ### Model Compression
 
 1. What is Knowledge Distillation?
