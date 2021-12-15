@@ -47,6 +47,10 @@ https://www.linkedin.com/feed/update/urn:li:activity:6862677707273199616?updateE
 
 7. SVD
 
+8. L1 vs L2?
+
+TLDR; Use L1 when there are no extreme outliers in the data otherwise in all other cases use L2. 
+
 ### Training and Accuracy Metrics
 
 1. What is Precision?
