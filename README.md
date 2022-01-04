@@ -1,6 +1,8 @@
 # CV_Interview_Answers
 This repository contains the implementations and answers to popular Computer Vision questions
 
+Another excellent resource for QnA: https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf 
+
 ### Some Terminology
 
 1. What is feature space?
