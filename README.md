@@ -2,6 +2,7 @@
 This repository contains the implementations and answers to popular Computer Vision questions
 
 Another excellent resource for QnA: https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf 
+and: https://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49ba83c0675b0a360f6a?v=b9ba5ea7dbf64a2c84f4e8ebac4ba70bhttps://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49ba83c0675b0a360f6a?v=b9ba5ea7dbf64a2c84f4e8ebac4ba70b 
 
 ### Some Terminology
 
