@@ -111,6 +111,8 @@ Ans: Precision is
 
 ### Some Standard Architectures
 
+More here: https://theaisummer.com/cnn-architectures/?utm_content=204647940&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735 
+
 1. VGG-16/19/152
 
 2. Resnet - 18/50/150
