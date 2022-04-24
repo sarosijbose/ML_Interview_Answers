@@ -86,7 +86,9 @@ Ans: Precision is
 
 2. What is Instance Normalization?
 
-### Activations and Losses
+### Activations and Losses 
+
+[Nice Blog](https://rohanvarma.me/Loss-Functions/)
 
 1. List down all standard losses and activations.
 
