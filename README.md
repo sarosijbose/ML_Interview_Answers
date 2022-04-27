@@ -128,7 +128,7 @@ More here: https://theaisummer.com/cnn-architectures/?utm_content=204647940&utm_
 * Group convolution:
 
 4. Xception
-
+https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568 
 * Depthwise separable conv:
 * Pointwise separable conv:
 
