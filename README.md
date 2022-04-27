@@ -71,6 +71,7 @@ Ans: Precision is
 6. How does model performace vary with bias and variance?
 
 7. What does the ROC curve represent?
+Ans: [here](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc#:~:text=An%20ROC%20curve%20(receiver%20operating,False%20Positive%20Rate)
 
 8. How does the bias and variance vary with precision and recall?
 
