@@ -100,6 +100,7 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 * Hard Tanh
 * Cross Entropy 
 * Binary Cross Entropy
+* Kullback leibler divergence loss
 * Triplet  - Bring centroid closer to mean (anchor)
 * Hard Triplet Mining - Bring extreme points closer to mean (point)
 
