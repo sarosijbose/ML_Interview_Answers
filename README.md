@@ -1,8 +1,7 @@
 # CV_Interview_Answers
 This repository contains the implementations and answers to popular Computer Vision questions
 
-Another excellent resource for QnA: https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf 
-and: https://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49ba83c0675b0a360f6a?v=b9ba5ea7dbf64a2c84f4e8ebac4ba70bhttps://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49ba83c0675b0a360f6a?v=b9ba5ea7dbf64a2c84f4e8ebac4ba70b 
+An excellent [resource](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf) for QnA rounds. You may also refer to [this](https://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49ba83c0675b0a360f6a?v=b9ba5ea7dbf64a2c84f4e8ebac4ba70bhttps://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49ba83c0675b0a360f6a?v=b9ba5ea7dbf64a2c84f4e8ebac4ba70b)
 
 ### Some Terminology
 
@@ -32,9 +31,7 @@ and: https://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49b
 
 ### Maths
 
-1. What is covariance?
-
-https://towardsdatascience.com/covariance-and-correlation-321fdacab168
+1. What is [covariance](https://towardsdatascience.com/covariance-and-correlation-321fdacab168)?
 
 2. What is correlation?
 
@@ -44,9 +41,7 @@ https://towardsdatascience.com/covariance-and-correlation-321fdacab168
 
 5. Differences between 'distances' and norms?
 
-6. PCA
-
-https://www.linkedin.com/feed/update/urn:li:activity:6862677707273199616?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6862677707273199616%29
+6. [PCA](https://www.linkedin.com/feed/update/urn:li:activity:6862677707273199616?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6862677707273199616%29)
 
 7. SVD
 
@@ -114,8 +109,7 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 2. What is model pruning?
 
 ### Some Standard Architectures
-
-More here: https://theaisummer.com/cnn-architectures/?utm_content=204647940&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735 
+[Read here.](https://theaisummer.com/cnn-architectures/?utm_content=204647940&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735)
 
 1. VGG-16/19/152
 
@@ -128,14 +122,12 @@ More here: https://theaisummer.com/cnn-architectures/?utm_content=204647940&utm_
 
 * Group convolution:
 
-4. Xception
-https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568 
+4. [Xception](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568)
 * Depthwise separable conv:
 * Pointwise separable conv:
 
-5. MobileNet
+5. [MobileNet](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69)
 
-https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69
 
 ### Convolution
 
@@ -145,6 +137,11 @@ https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolutio
 
 3. What is stride and padding?
 
-4. Derive the factor of improvement of depthwise separable conv over normal convolution.
+4. [Derive the factor of improvement of depthwise separable conv over normal convolution.](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568)
 
-https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568
+
+
+### Must Read Texts
+1. Image Processing, Analysis and Machine Vision - *Sonka, Boyle*
+2. Deep Learning - *Bengio, Goodfellow* \
+[Download links](https://drive.google.com/drive/folders/1yjtIYdt3fq_YYRrDZaf1P8y_P3CYt2Xi?usp=sharing)
