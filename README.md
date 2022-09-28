@@ -144,6 +144,7 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 ### Model Deployment and production
 
+[Beginner's Blog](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/) 
 Stay tuned lots of shit comin soon!
 
 ### Must Read Texts
