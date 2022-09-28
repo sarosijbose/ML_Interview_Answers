@@ -142,6 +142,9 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 4. [Derive the factor of improvement of depthwise separable conv over normal convolution.](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568)
 
 
+### Model Deployment and production
+
+Stay tuned lots of shit comin soon!
 
 ### Must Read Texts
 1. Image Processing, Analysis and Machine Vision - *Sonka, Boyle*
