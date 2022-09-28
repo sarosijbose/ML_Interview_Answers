@@ -108,6 +108,8 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 2. What is model pruning?
 
+3. This awesome [twitter thread](https://twitter.com/MishaLaskin/status/1546641202900082688?s=20&t=_0EDwXH88ssxNYxGoTQwvQ) on model memory consumption.
+
 ### Some Standard Architectures
 [Read here.](https://theaisummer.com/cnn-architectures/?utm_content=204647940&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735)
 
