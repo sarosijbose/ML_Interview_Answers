@@ -70,7 +70,7 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 8. How does the bias and variance vary with precision and recall?
 
-9. What is the difference between test and validation sets?
+9. What is the difference between test and validation sets? [Prelim idea here](https://stats.stackexchange.com/questions/19048/what-is-the-difference-between-test-set-and-validation-set)
 
 10. Are validation sets always needed?
 
