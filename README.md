@@ -74,6 +74,8 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 10. Are validation sets always needed?
 
+11. What is K-cross fold validation? [Ans](https://www.analyticsvidhya.com/blog/2022/02/k-fold-cross-validation-technique-and-its-essentials/)
+
 ### Layer Functions
 
 1. What is Normalization?
