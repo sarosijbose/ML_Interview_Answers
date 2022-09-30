@@ -112,6 +112,8 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 3. This awesome [twitter thread](https://twitter.com/MishaLaskin/status/1546641202900082688?s=20&t=_0EDwXH88ssxNYxGoTQwvQ) on model memory consumption.
 
+4. How tensors are [stored in memory](https://twitter.com/francoisfleuret/status/1575756258669662208?s=20&t=V7Vfka9JIIFxJuMZhVF5DA)
+
 ### Some Standard Architectures
 [Read here.](https://theaisummer.com/cnn-architectures/?utm_content=204647940&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735)
 
