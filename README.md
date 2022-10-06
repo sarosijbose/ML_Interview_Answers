@@ -152,6 +152,12 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 1. Data Drift vs Model Drift vs Concept Drift?
 
+### Transformers and Attention
+
+### Other cool stuff
+
+1. [Hands on Stable Diffusion](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
+
 ### Must Read Texts
 1. Image Processing, Analysis and Machine Vision - *Sonka, Boyle*
 2. Deep Learning - *Bengio, Goodfellow* \
