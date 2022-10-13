@@ -45,6 +45,8 @@ An excellent [resource](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf) 
 
 7. SVD
 
+8. K-Means - [overview](https://medium.com/@rishit.dagli/build-k-means-from-scratch-in-python-e46bf68aa875) and [mathametical](https://medium.com/analytics-vidhya/k-means-clustering-optimizing-cost-function-mathematically-1ccae156299f) explanation. 
+
 8. L1 vs L2?
 
 TLDR; Use L1 when there are no extreme outliers in the data otherwise in all other cases use L2. 
