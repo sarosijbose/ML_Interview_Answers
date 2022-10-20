@@ -156,6 +156,8 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 ### Transformers and Attention
 
+1. [Thoughts on Transformers](https://twitter.com/karpathy/status/1582807367988654081?s=20&t=pK-Uu90gjXRJ6fARyIVDKg) by Karpathy.
+
 ### Other cool stuff
 
 1. [Hands on Stable Diffusion](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
