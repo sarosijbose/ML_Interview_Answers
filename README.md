@@ -154,6 +154,8 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 1. Data Drift vs Model Drift vs Concept Drift?
 
+Extensive [repo](https://github.com/ahkarami/Deep-Learning-in-Production) on this topic
+
 ### Transformers and Attention
 
 1. [Thoughts on Transformers](https://twitter.com/karpathy/status/1582807367988654081?s=20&t=pK-Uu90gjXRJ6fARyIVDKg) by Karpathy.
