@@ -41,9 +41,11 @@ An excellent [resource](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf) 
 
 5. Differences between 'distances' and norms?
 
-6. [PCA](https://www.linkedin.com/feed/update/urn:li:activity:6862677707273199616?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6862677707273199616%29)
+6. [Eigenvalues and Eigenvectors](https://math.stackexchange.com/questions/23312/what-is-the-importance-of-eigenvalues-eigenvectors) 
 
-7. SVD
+7. [PCA](https://www.linkedin.com/feed/update/urn:li:activity:6862677707273199616?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6862677707273199616%29) (Derive this from scratch)
+
+8. [SVD](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
 
 8. K-Means - [overview](https://medium.com/@rishit.dagli/build-k-means-from-scratch-in-python-e46bf68aa875) and [mathametical](https://medium.com/analytics-vidhya/k-means-clustering-optimizing-cost-function-mathematically-1ccae156299f) explanation. 
 
