@@ -167,6 +167,7 @@ Extensive [repo](https://github.com/ahkarami/Deep-Learning-in-Production) on thi
 ### Other cool stuff
 
 1. [Hands on Stable Diffusion](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
+2. Transformers are more robust than CNNs? [Discussion](https://proceedings.neurips.cc//paper/2021/file/e19347e1c3ca0c0b97de5fb3b690855a-Paper.pdf)
 
 ### Must Read Texts
 1. Image Processing, Analysis and Machine Vision - *Sonka, Boyle*
