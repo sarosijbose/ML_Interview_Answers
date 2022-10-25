@@ -33,7 +33,7 @@ An excellent [resource](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf) 
 
 1. What is [covariance](https://towardsdatascience.com/covariance-and-correlation-321fdacab168)?
 
-2. What is correlation?
+2. What is correlation? Remember: Pearson (Linear) vs Spearman (Non linear)
 
 3. Explain the differences betn 1 and 2.
 
@@ -135,6 +135,8 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 * Pointwise separable conv:
 
 5. [MobileNet](https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69)
+
+6. [Capsule Networks](https://towardsdatascience.com/capsule-networks-the-new-deep-learning-network-bd917e6818e8)
 
 
 ### Convolution
