@@ -80,6 +80,8 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 11. What is K-cross fold validation? [Ans](https://www.analyticsvidhya.com/blog/2022/02/k-fold-cross-validation-technique-and-its-essentials/)
 
+12. Deal with class imbalance [Ans](https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/)
+
 ### Layer Functions
 
 1. What is Normalization?
