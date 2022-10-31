@@ -90,6 +90,10 @@ Ans: [here](https://developers.google.com/machine-learning/crash-course/classifi
 
 2. What is Instance Normalization?
 
+### Optimizers
+
+Comparison of various optimizers for 11 tasks - [blog](https://ruder.io/optimizing-gradient-descent/)
+
 ### Activations and Losses 
 
 [Nice Blog](https://rohanvarma.me/Loss-Functions/)
