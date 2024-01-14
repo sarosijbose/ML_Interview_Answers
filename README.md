@@ -57,8 +57,6 @@ TLDR; Use L1 when there are no extreme outliers in the data otherwise in all oth
 
 1. What is Precision?
 
-Ans: Precision is 
-
 2. What is Recall?
 
 3. What is F1 score?
